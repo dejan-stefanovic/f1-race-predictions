@@ -122,6 +122,6 @@ The model trains on all seasons up to and including 2022, and evaluates on 2023 
 
 ## Author
 
-**Dejan Stefanovic**
-[LinkedIn](https://linkedin.com/in/dejan-stefanovic) · [GitHub](https://github.com/dejan-stefanovic)
+**Dejan Stefanovic**  
+[LinkedIn](https://linkedin.com/in/dejan-stefanovic-231551261) · [GitHub](https://github.com/dejan-stefanovic)  
 dejanstef7@gmail.com
