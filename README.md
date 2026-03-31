@@ -1,6 +1,6 @@
 # F1 Race Outcome Predictions
 
-An end-to-end machine learning pipeline to predict whether a Formula 1 driver will finish in the points (top 10) using 75 seasons of historical race data. The final XGBoost model achieves **90% accuracy**, outperforming a logistic regression baseline by **24 percentage points**.
+An end-to-end machine learning pipeline to predict whether a Formula 1 driver will finish in the points (top 10) using 75 seasons of historical race data. The final XGBoost model achieves **90% accuracy**, outperforming a naive logistic regression baseline by **14 percentage points** and a fully-engineered logisitic regression by **4.6 percentage points**.
 
 ---
 
